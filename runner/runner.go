@@ -14,7 +14,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/chromedp/chromedp/client"
+	"github.com/jangoo/chromedp-frozen/client"
 )
 
 const (

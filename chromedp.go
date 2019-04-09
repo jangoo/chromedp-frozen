@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/jangoo/cdproto-frozen/cdp"
 
-	"github.com/chromedp/chromedp/client"
-	"github.com/chromedp/chromedp/runner"
+	"github.com/jangoo/chromedp-frozen/client"
+	"github.com/jangoo/chromedp-frozen/runner"
 )
 
 const (

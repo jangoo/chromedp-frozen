@@ -12,16 +12,16 @@ import (
 
 	"github.com/mailru/easyjson"
 
-	"github.com/chromedp/cdproto"
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/css"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/inspector"
-	"github.com/chromedp/cdproto/log"
-	"github.com/chromedp/cdproto/page"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/jangoo/cdproto-frozen"
+	"github.com/jangoo/cdproto-frozen/cdp"
+	"github.com/jangoo/cdproto-frozen/css"
+	"github.com/jangoo/cdproto-frozen/dom"
+	"github.com/jangoo/cdproto-frozen/inspector"
+	"github.com/jangoo/cdproto-frozen/log"
+	"github.com/jangoo/cdproto-frozen/page"
+	"github.com/jangoo/cdproto-frozen/runtime"
 
-	"github.com/chromedp/chromedp/client"
+	"github.com/jangoo/chromedp-frozen/client"
 )
 
 // TargetHandler manages a Chrome Debugging Protocol target.

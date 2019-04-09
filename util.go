@@ -1,8 +1,8 @@
 package chromedp
 
 import (
-	"github.com/chromedp/cdproto"
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/jangoo/cdproto-frozen"
+	"github.com/jangoo/cdproto-frozen/cdp"
 )
 
 // frameOp is a frame manipulation operation.

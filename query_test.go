@@ -10,11 +10,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/css"
-	"github.com/chromedp/cdproto/dom"
+	"github.com/jangoo/cdproto-frozen/cdp"
+	"github.com/jangoo/cdproto-frozen/css"
+	"github.com/jangoo/cdproto-frozen/dom"
 
-	"github.com/chromedp/chromedp/kb"
+	"github.com/jangoo/chromedp-frozen/kb"
 )
 
 func TestNodes(t *testing.T) {

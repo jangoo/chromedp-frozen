@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/jangoo/cdproto-frozen/cdp"
+	"github.com/jangoo/cdproto-frozen/runtime"
 )
 
 // Evaluate is an action to evaluate the Javascript expression, unmarshaling

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chromedp/cdproto/page"
+	"github.com/jangoo/cdproto-frozen/page"
 )
 
 func TestNavigate(t *testing.T) {

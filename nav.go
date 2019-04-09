@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/page"
+	"github.com/jangoo/cdproto-frozen/cdp"
+	"github.com/jangoo/cdproto-frozen/page"
 )
 
 // Navigate navigates the current frame.
